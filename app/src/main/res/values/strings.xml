@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercise4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">Now playing</string>
+    <string name="top_rate">Top rate</string>
+</resources>
